@@ -6,9 +6,9 @@ Compared to other methods using 4gpus, we use 2 Nvidia GTX 1080Ti for training.
 ## 1. Introduction
 
 ## 2. Instillation
-- Python 3.7.8
-- Pytorch 1.2.0
-- Torchvision 0.4.0
+- Python 3.7.10
+- Pytorch 1.13.1
+- Torchvision 0.14.1
 - Faiss-gpu 1.6.4
 - Please refer to `setup.py` for the other packages with the corresponding versions.
 
