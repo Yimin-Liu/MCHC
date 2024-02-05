@@ -1,11 +1,11 @@
 # MMCC
 A new unsupervised person re-identification method is coming...
 
-
-Compared to other methods using 4gpus, we use 2 Nvidia GTX 1080Ti for training.
 ## 1. Introduction
 
-## 2. Instillation
+Compared to other methods using 4gpus, our method uses a minimum of two Nvidia GTX 1080Ti for training.
+
+## 2. Installation
 - Python 3.7.10
 - Pytorch 1.13.1
 - Torchvision 0.14.1
