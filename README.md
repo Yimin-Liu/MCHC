@@ -18,7 +18,7 @@ A new unsupervised person re-identification method is coming...
 
 Download the datasets Market-1501,MSMT17,DukeMTMC-reID from this [link](https://drive.google.com/file/d/19oWiYGjTgouFMK_psZvH8ysDGQ1KUbk-/view?usp=sharing) and unzip them under the directory like:
 
-    HHCL-ReID/examples/data
+    MMCC/examples/data
     ├── market1501
     │   └── Market-1501-v15.09.15
     │       └── bounding_box_train
