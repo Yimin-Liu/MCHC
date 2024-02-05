@@ -37,7 +37,7 @@ Prepare ImageNet Pre-trained Models for IBN-Net
 When training with the backbone of [IBN-ResNet](https://arxiv.org/abs/1807.09441), you need to download the ImageNet-pretrained model from this [link](https://drive.google.com/drive/folders/1thS2B8UOSBi_cJX6zRy6YYRwz_nVFI_S) and save it under the path of `examples/pretrained/`.
 
 ```
-HHCL-ReID/examples
+MMCC/examples
 └── pretrained
     └── resnet50_ibn_a.pth.tar
 ```
