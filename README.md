@@ -1,6 +1,6 @@
 # MMCC
 A new unsupervised person re-identification method is coming...
-
+Compared to other methods using 4gpus, we use 2 Nvidia GTX 1080Ti for training.
 ## 1. Introduction
 
 ## 2. Instillation
